@@ -32,3 +32,5 @@ Import code ke main.dart
 
 ## Practicum 4
 
+![Screenshot (2466)](https://user-images.githubusercontent.com/75615789/187171097-910bfcae-64d7-482c-9ee4-28dff1b11c41.png)
+
